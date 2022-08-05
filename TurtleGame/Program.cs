@@ -6,9 +6,7 @@
     {
         public static void Main()
         {
-            //var path = Directory.GetCurrentDirectory();
-
-            var path = "C:\\Users\\daguiard\\Documents";
+            var path = Directory.GetCurrentDirectory();
 
             var line = Console.ReadLine();
 
@@ -19,7 +17,7 @@
                 if (files.Length >= 2)
                 {
                     var settingsFile = $"{path}\\{files[0]}.txt";
-                    var movesFile = $"{path}\\{files[0]}.txt";
+                    var movesFile = $"{path}\\{files[1]}.txt";
 
                     if (File.Exists(settingsFile) && File.Exists(movesFile))
                     {
