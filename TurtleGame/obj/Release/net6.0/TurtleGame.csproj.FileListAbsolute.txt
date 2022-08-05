@@ -1,0 +1,15 @@
+C:\Users\daguiard\Documents\Cursos\C#Generics\TurtleGame\TurtleGame\bin\Release\net6.0\TurtleGame.exe
+C:\Users\daguiard\Documents\Cursos\C#Generics\TurtleGame\TurtleGame\bin\Release\net6.0\TurtleGame.deps.json
+C:\Users\daguiard\Documents\Cursos\C#Generics\TurtleGame\TurtleGame\bin\Release\net6.0\TurtleGame.runtimeconfig.json
+C:\Users\daguiard\Documents\Cursos\C#Generics\TurtleGame\TurtleGame\bin\Release\net6.0\TurtleGame.dll
+C:\Users\daguiard\Documents\Cursos\C#Generics\TurtleGame\TurtleGame\bin\Release\net6.0\TurtleGame.pdb
+C:\Users\daguiard\Documents\Cursos\C#Generics\TurtleGame\TurtleGame\obj\Release\net6.0\TurtleGame.csproj.AssemblyReference.cache
+C:\Users\daguiard\Documents\Cursos\C#Generics\TurtleGame\TurtleGame\obj\Release\net6.0\TurtleGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daguiard\Documents\Cursos\C#Generics\TurtleGame\TurtleGame\obj\Release\net6.0\TurtleGame.AssemblyInfoInputs.cache
+C:\Users\daguiard\Documents\Cursos\C#Generics\TurtleGame\TurtleGame\obj\Release\net6.0\TurtleGame.AssemblyInfo.cs
+C:\Users\daguiard\Documents\Cursos\C#Generics\TurtleGame\TurtleGame\obj\Release\net6.0\TurtleGame.csproj.CoreCompileInputs.cache
+C:\Users\daguiard\Documents\Cursos\C#Generics\TurtleGame\TurtleGame\obj\Release\net6.0\TurtleGame.dll
+C:\Users\daguiard\Documents\Cursos\C#Generics\TurtleGame\TurtleGame\obj\Release\net6.0\refint\TurtleGame.dll
+C:\Users\daguiard\Documents\Cursos\C#Generics\TurtleGame\TurtleGame\obj\Release\net6.0\TurtleGame.pdb
+C:\Users\daguiard\Documents\Cursos\C#Generics\TurtleGame\TurtleGame\obj\Release\net6.0\TurtleGame.genruntimeconfig.cache
+C:\Users\daguiard\Documents\Cursos\C#Generics\TurtleGame\TurtleGame\obj\Release\net6.0\ref\TurtleGame.dll

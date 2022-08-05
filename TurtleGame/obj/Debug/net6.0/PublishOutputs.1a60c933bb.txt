@@ -1,0 +1,5 @@
+C:\Users\daguiard\Documents\Cursos\C#Generics\TurtleGame\TurtleGame\bin\Debug\net6.0\publish\TurtleGame.exe
+C:\Users\daguiard\Documents\Cursos\C#Generics\TurtleGame\TurtleGame\bin\Debug\net6.0\publish\TurtleGame.dll
+C:\Users\daguiard\Documents\Cursos\C#Generics\TurtleGame\TurtleGame\bin\Debug\net6.0\publish\TurtleGame.deps.json
+C:\Users\daguiard\Documents\Cursos\C#Generics\TurtleGame\TurtleGame\bin\Debug\net6.0\publish\TurtleGame.runtimeconfig.json
+C:\Users\daguiard\Documents\Cursos\C#Generics\TurtleGame\TurtleGame\bin\Debug\net6.0\publish\TurtleGame.pdb
